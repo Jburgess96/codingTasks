@@ -1,21 +1,71 @@
 # codingTasks
 # Decision Tree on Titanic Dataset
 
-## Description
+# Description
 This project involves using a Decision Tree classifier to predict the survival of passengers on the Titanic. The Titanic dataset is a well-known dataset in the machine learning community, and it provides an excellent opportunity to practice data preprocessing, feature engineering, and applying machine learning algorithms. Understanding decision trees is crucial for building interpretable models and is a foundation for more complex ensemble methods.
 
-## Table of Contents
+# Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Credits](#credits)
 
-## Installation
+# Installation
 To run this project locally, you need to have Python and Jupyter Notebook installed. Additionally, install the necessary packages using the following command:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/JBurgess96/codingTasks.git
+    ```
 
+2. Navigate to the project directory:
+    ```bash
+    cd codingTasks/decision_tree_titanic
+    ```
+    
+3. Install the necessary packages using the following command:
+    ```bash
+    pip install pandas numpy matplotlib scikit-learn seaborn
+    ```
+    
+4. Run the Python script:
+    ```bash
+    python decision_tree_titanic.py
+    ```
+
+
+# Usage
+
+Follow these steps to use the code:
+
+Clone the Repository
 ```bash
-pip install pandas numpy matplotlib scikit-learn seaborn
+git clone https://github.com/your-username/codingTasks.git
 ```
 
-## Credits
+Navigate to the Project Directory:
+```bash
+cd codingTasks
+```
+
+Open the Jupyter Notebook:
+```bash
+jupyter notebook decision_tree_titanic.ipynb
+```
+
+Run the Notebook:
+
+Open the decision_tree_titanic.ipynb notebook in Jupyter.
+Run the cells sequentially to preprocess the data, train the decision tree model, and evaluate its performance.
+
+The notebook includes steps to:
+ - Load and preprocess the Titanic dataset.
+ - Encode categorical variables using one-hot encoding.
+ - Handle missing values.
+ - Train a Decision Tree classifier.
+ - Evaluate the model's performance using accuracy score.
+   
+Additionally, it demonstrates the use of ensemble methods such as Bagging, Random Forest, and Gradient Boosting classifiers, and includes hyperparameter tuning using GridSearchCV.
+
+
+# Credits
 Written by JBurgess96 - Jason Burgess
