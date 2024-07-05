@@ -15,3 +15,8 @@ To run this project locally, you need to have Python and Jupyter Notebook instal
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn seaborn
+
+
+
+## Credits
+Written by JBurgess96 - Jason Burgess
