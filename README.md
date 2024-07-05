@@ -66,6 +66,9 @@ The notebook includes steps to:
    
 Additionally, it demonstrates the use of ensemble methods such as Bagging, Random Forest, and Gradient Boosting classifiers, and includes hyperparameter tuning using GridSearchCV.
 
+![screenshot1](https://github.com/Jburgess96/codingTasks/assets/163059737/c1a95cce-7fba-4749-adf7-a8d4bf56153f)
+![screenshot2](https://github.com/Jburgess96/codingTasks/assets/163059737/0a5a6471-68e3-4d66-bbfa-3676725d9d05)
+
 
 # Credits
 Written by JBurgess96 - Jason Burgess
